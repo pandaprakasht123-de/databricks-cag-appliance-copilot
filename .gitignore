@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# VS Code/editor metadata
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Databricks / local config
+.databricks
+*.dbfs
+*.db
+
+# Credentials and secrets
+*.env
+.env
+.env.*
+secrets.json
+config.json
+credentials.json
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build / package artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local project metadata
+.idea/
+*.iml

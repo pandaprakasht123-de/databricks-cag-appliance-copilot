@@ -1,0 +1,9 @@
+# requirements.txt
+databricks-langchain
+langchain>=0.1.5
+langchain-core
+databricks-sdk>=0.18.0
+mlflow>=2.10.0
+pdfplumber
+reportlab
+pandas
